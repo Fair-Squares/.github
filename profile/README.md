@@ -22,22 +22,15 @@ Our governance system using the substrate democracy and collective pallets that 
 <img src="https://user-images.githubusercontent.com/29432367/227028665-a249d35e-2740-447d-a1c2-4e9beed8a2e8.png" width=34%>
 </p>
 
-### Built with
-The Fair Squares project is built on many technologies including:
 
-- [Rust](https://www.rust-lang.org/)
-- [Substrate](https://substrate.dev/)
-- [Polkadot.js](https://polkadot.js.org/docs/)
+### Other reading material
+
+You learn more about Fair Squares on the following pages:
+
+- [Lightpaper](https://docs.fair-squares.nl/docs/learn/lightpaper)
+- [Technical Design documentation](https://docs.fair-squares.nl/docs/learn/design)
 
 
+### Questions & Contract
 
-<!--
-
-**Here are some ideas to get you started:**
-
-🙋‍♀️ A short introduction - what is your organization all about?
-🌈 Contribution guidelines - how can the community get involved?
-👩‍💻 Useful resources - where can the community find your docs? Is there anything else the community should know?
-🍿 Fun facts - what does your team eat for breakfast?
-🧙 Remember, you can do mighty things with the power of [Markdown](https://docs.github.com/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
--->
+If you have any further questions or want to get in touch you can find in [Discord](https://discord.com/invite/5u3dxE49V5) or just send us an [email](mailto:hello@fair-squares.nl)
