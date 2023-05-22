@@ -7,7 +7,7 @@
 
 Fair Squares is the operating system for transparent and equitable housing. This is not your classical invest in real estate blockchain. We want to democracitize access to investing, curating, renting and governing over real world assets. We started this based on social mission which was to lower the barrier for ownership and make affordable housing possible. We believe that with a neutrally designed coordination system we can solve a lot of the pains in the current housing situation around the world. 
 
-Fair Squares is built with an ecosystem approach, it relies on a group of different roles that make the whole network work. They don't necessarily need to cooperate as that is dealt with in the runtime, but pursue their can each act on their best interest. For topic that are discussable we have implemented different governance layers and logic that enables a housing funding, onboarding, curation, bidding/finalizing and renting out flow. 
+Fair Squares is built with an ecosystem approach, it relies on a group of different roles that make the whole network work. They don't necessarily need to cooperate as that is dealt with in the runtime, but each actor can act on their best interest, that eventually leads to affordable housing.  For topics that are discussable we have implemented different governance layers and logic that enables a housing funding, onboarding, curation, bidding/finalizing and renting out flow. 
 
 <p align="center">
 <img src="https://user-images.githubusercontent.com/29432367/227030574-7956f852-d626-4d33-b314-a5ded5e5f12f.png" width=84%>
